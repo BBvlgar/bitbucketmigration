@@ -5,7 +5,7 @@ import subprocess
 #https://bitbucket-drvtwo.it-economics-testing.de/
 # Auth BBDC-MTM0ODUyODc2Njk4Ot2wn5UNkVFk/v6IWcXzfltlAv6M
 #https://bitbucket.it-economics.de/
-# Auth BBDC-NDI0NTQ0MzgxNTk0OnekH92qKZ2wuGtO9favEpW2diIj
+# Auth
 
 urlorigin = 'https://bitbucket.it-economics.de/'
 ### API Endpoint to get all projects for Bitbucket server
